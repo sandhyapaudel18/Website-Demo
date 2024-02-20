@@ -2,10 +2,26 @@
     margin:0px;
     padding:0px;
 }
+body,html{
+    width:100%;
+    height:100%;
+}
 .headings{
     width:1380px;
     height:20px;
-    background-color: rgb(25, 155, 225);;
+    background-color: rgb(25, 155, 225);
+    display: flex;
+}
+.phone{
+    display: flex;
+    color:rgb(255, 255, 255);
+}
+i{
+    size: 15px;
+}
+.tele{
+    display:flex;
+    color:rgb(255, 255, 255);
 }
 .contacts{
     color:rgb(255,255,255);
@@ -13,7 +29,7 @@
 }
  .heading{
     height:50px;
-    width:1380px;
+    width:1300px;
     display:flex;
     justify-content:flex-end;
     align-items: center; 
