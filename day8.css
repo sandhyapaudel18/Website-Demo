@@ -20,7 +20,11 @@ body,html{
     font-size: 15px;
     display:flex;
     align-items: center;
-    margin-left:10px;
+}
+.call{
+    display: flex;
+    margin-left: 40px;
+
 }
 i{
     size: 10px;
