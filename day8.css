@@ -26,11 +26,15 @@ body,html{
 
 .headings2{
     display: flex;
-    align-items: center;   
+    align-items: center;  
+    justify-self: flex-start; 
   
 }
 .fb{
     margin-right: 20px;
+}
+.ins{
+    margin-right:20px;
 }
 
 
