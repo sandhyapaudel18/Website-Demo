@@ -21,7 +21,11 @@ body,html{
 }
 .phone{
     margin-right: 40px;
+    display:flex;
     
+}
+.tele{
+    display: flex;
 }
 
 .headings2{
