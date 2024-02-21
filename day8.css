@@ -19,11 +19,18 @@ body,html{
     display:flex;
     align-items: center;
 }
-
+.phone{
+    margin-right: 40px;
+    
+}
 
 .headings2{
     display: flex;
     align-items: center;   
+  
+}
+.fb{
+    margin-right: 20px;
 }
 
 
@@ -45,6 +52,8 @@ body,html{
  .a1{
     color:rgb(25, 155, 225);
  }
+ 
+
  a:hover{
    color:rgb(56, 165, 255);
  }
